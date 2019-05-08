@@ -4,11 +4,11 @@
  * picxenk 대신 여러분의 아이디로 변경합니다.
  * \_config.yml 파일에서 url 값을 여러분에게 맞게 수정하세요.
  * 원한다면 테마를 변경할 수 있습니다. <https://pages.github.com/themes/> 페이지를 참고합니다.
-
-theme: jekyll-theme-cayman
+ * URL 수정 필요, config.yml에서 수정해야함
 
 ## 이름
 WonGeunHee
+
 
 
 ## 작업
