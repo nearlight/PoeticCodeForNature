@@ -8,6 +8,7 @@
 theme: jekyll-theme-cayman
 
 ## 이름
+WonGeunHee
 
 
 ## 작업
