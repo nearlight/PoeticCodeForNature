@@ -22,5 +22,5 @@ WonGeunHee
 ## Poetic Code for Nature (기말작업)
 * [1안] 일정하게 움직이는 오브젝트(바람, 흐르는 물)에 상호작용을 통해서 형태 또는
 성질이 변화하는 작품
-(https://nearlight.github.io/PoeticCodeForNature/)
+
 * 위 코드와 같이 일정하게 움직이는 어떠한 자연물에, 상호작용을 주게 되면 그것의 형태나 혹은 성질이 변화하게 됨
