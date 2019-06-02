@@ -54,11 +54,11 @@ WonGeunHee
 
 -19.05.29 손 스케치를 통해서 만들어진 6개의 스케치중 3개의 스케치는 참고가 될만한 예제들을 찾을 수 있었으며 이를 토대로 최종 기말과제 3개를 채택할 수 있을듯 함
 
-*폭발예제 코드
-https://editor.p5js.org/ghwon95@gmail.com/sketches/x47vgSJyq
+* 폭발예제 코드
+<https://editor.p5js.org/ghwon95@gmail.com/sketches/x47vgSJyq>
 
-*별이 반짝이는 코드
-https://editor.p5js.org/ag3439/sketches/Skgh1ZQtQ
+* 별이 반짝이는 코드
+<https://editor.p5js.org/ag3439/sketches/Skgh1ZQtQ>
 
-*바이러스 예제 코드
-https://editor.p5js.org/ajl774@nyu.edu/sketches/H1XN06Fcm
+* 바이러스 예제 코드
+<https://editor.p5js.org/ajl774@nyu.edu/sketches/H1XN06Fcm>
