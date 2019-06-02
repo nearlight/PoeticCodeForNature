@@ -43,3 +43,22 @@ WonGeunHee
 그쳤으며 이 커서안에서 파티클이나 발광 및 발색하는 효과를 종속시키는것은 좀더 많은 시도가 필요할 듯 보임
 
 * 많은 Interactivity를 합쳐본 p5.js시도 <https://editor.p5js.org/ghwon95@gmail.com/sketches/N3GJW7uhq>
+
+
+
+
+
+
+* 19.06.02
+작업을 위한 자원 채취
+
+-19.05.29 손 스케치를 통해서 만들어진 6개의 스케치중 3개의 스케치는 참고가 될만한 예제들을 찾을 수 있었으며 이를 토대로 최종 기말과제 3개를 채택할 수 있을듯 함
+
+*폭발예제 코드
+https://editor.p5js.org/ghwon95@gmail.com/sketches/x47vgSJyq
+
+*별이 반짝이는 코드
+https://editor.p5js.org/ag3439/sketches/Skgh1ZQtQ
+
+*바이러스 예제 코드
+https://editor.p5js.org/ajl774@nyu.edu/sketches/H1XN06Fcm
