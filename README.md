@@ -1,19 +1,22 @@
 ## 시작하기
 
 접속 주소 : <https://nearlight.github.io/PoeticCodeForNature/>
+ * 테마 변경 예제 <https://pages.github.com/themes/>
 
- * 원한다면 테마를 변경할 수 있습니다. <https://pages.github.com/themes/> 페이지를 참고합니다.
-<br/>
+
 ## GeunJ(WonGeunHee) Digtal Art 1413037
 
 
-<br/>
 ## 작업
  * [예시 작업](./example/)
  * 기말을 위한 참고 작업이나 시도를 이곳에 링크하고 하단 기말작업 부분에는 자세한 과정을 수정할 것입니다.
 <br/>
- ![예시 이미지](./example_img.png)
+* 기말 작업들을 위한 손 스케치 시도 이미지
  ![예시 이미지](./4.png)
+<br/>
+ * 그 이전 Nature of Code 수업을 통해 응용한 mousePressed 작업 예시
+![영상](./dust plus.mp4)
+
 <br/>
 --------------------------------------------------
 
