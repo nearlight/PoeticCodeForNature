@@ -3,19 +3,19 @@
 접속 주소 : <https://nearlight.github.io/PoeticCodeForNature/>
 
  * 원한다면 테마를 변경할 수 있습니다. <https://pages.github.com/themes/> 페이지를 참고합니다.
-
+<br/>
 ## GeunJ(WonGeunHee)
 Digtal Art 1413037
 -------------------------------------------------
-
+<br/>
 ## 작업
  * [예시 작업](./example/)
  * 여러분의 작업을 p5 기반으로 만들고 링크를 걸 수 있습니다.
  * 기말을 위한 참고 작업이나 시도를 이곳에 링크하고 하단 기말작업 부분에는 자세한 과정을 수정할 것입니다.
-
+<br/>
  ![예시 이미지](./example_img.png)
  ![예시 이미지](./4.jpg)
-
+<br/>
 --------------------------------------------------
 
 ## Poetic Code for Nature (기말작업)
@@ -42,7 +42,7 @@ Digtal Art 1413037
 * 많은 Interactivity를 합쳐본 p5.js시도 <https://editor.p5js.org/ghwon95@gmail.com/sketches/N3GJW7uhq>
 
 
-
+<br/>
 -------------------------------------------------
 
 
