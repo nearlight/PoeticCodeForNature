@@ -14,9 +14,8 @@
 * 기말 작업들을 위한 손 스케치 시도 이미지
  ![예시 이미지](./1차.png)
 <br/>
- * 그 이전 Nature of Code 수업을 통해 응용한 mousePressed 작업 예시
-![영상](./dust plus.mp4)
-
+ * 그 이전 Nature of Code 수업을 통해 응용한 mousePressed 작업들이 존재하는 스케치링크
+<https://editor.p5js.org/ghwon95@gmail.com/sketches/mnQYcC7HJ>
 <br/>
 --------------------------------------------------
 
