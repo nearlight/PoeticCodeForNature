@@ -101,6 +101,7 @@
 ![예시 이미지](./twinkle twinkle little star.jpg)[작업](./star/)
 <https://editor.p5js.org/ghwon95@gmail.com/sketches/Y43eTTi3K>
 어디서든 빛나는 반짝반짝 작은 별, 밤하늘 여기저기 수많은 별들이 반짝이며, 사용자 자신도 반짝이 별이 되어 움직일 수 있으며, 클릭을 할때마다 각기 다른색으로 변화함
+(왜인지는 모르겠지만 "작업"이라고 되어있는 링크로 들어가면 mousePressed가 잘 작동하지 않아서 컬러가 제대로 변화하지 않는데 p5.js링크로 들어가면 그건 또 잘 작동합니다.. 무슨 이유일까요ㅠ)
 
 <br/>
 
