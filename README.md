@@ -86,7 +86,7 @@
 <br/>
 <br/>
 
-* 19.06.23 Poetic Code For Nature 기말작업 최종
+## 2019.06.23 Poetic Code for Nature (기말작업최종)
 
 <br/>
 * Supernova explosion
