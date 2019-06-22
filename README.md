@@ -90,14 +90,19 @@
 
 <br/>
 * Supernova explosion
-![예시 이미지](./supernova explosion.jpg)
+![예시 이미지][작업](./supernova_explosion/)(./supernova explosion.jpg)
 <https://editor.p5js.org/ghwon95@gmail.com/sketches/x47vgSJyq>
+
 초신성 폭발, 중심으로부터 폭발이 일어나며 그 여파로 수많은 별들이 생성되고 그 별들은 더욱더 먼 우주로 뻗어나가며 은하계를 형성
+
+<br/>
 
 * twinkle twinkle little star in everywhere
 ![예시 이미지](./twinkle twinkle little star.jpg)
 <https://editor.p5js.org/ghwon95@gmail.com/sketches/Y43eTTi3K>
 어디서든 빛나는 반짝반짝 작은 별, 밤하늘 여기저기 수많은 별들이 반짝이며, 사용자 자신도 반짝이 별이 되어 움직일 수 있음
+
+<br/>
 
 * virus infection
 ![예시 이미지](./virus infection.jpg)
