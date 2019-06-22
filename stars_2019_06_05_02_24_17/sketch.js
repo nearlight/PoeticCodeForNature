@@ -5,13 +5,13 @@ function setup() {
 
 function draw() {
   //background with transparancy
-  background(0,0,35,25); 
-  
+  background(0,0,90,20);
+
   //blinking stars
-  var galaxy = { 
+  var galaxy = {
   locationX : random(width),
   locationY : random(height),
-  size : random(1,6)
+  size : random(1,10)
 }
   ellipse(mouseX ,mouseY, galaxy.size, galaxy.size);
   ellipse(galaxy.locationX ,galaxy.locationY, galaxy.size, galaxy.size);
@@ -19,3 +19,5 @@ function draw() {
 
 }
 
+function mousePressed () {
+}
