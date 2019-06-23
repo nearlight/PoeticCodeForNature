@@ -4,7 +4,7 @@ let viruses = [];
 
 function setup() {
 
-  createCanvas(400, 400);
+  createCanvas(windowWidth, windowHeight);
   background(255, 0, 0);
 
   for (let i = 0; i < 200; i++) {
